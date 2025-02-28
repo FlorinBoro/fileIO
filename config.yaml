@@ -1,0 +1,3 @@
+permissions: 755
+logs folder: "appLogs"
+files folder: "filesFolder"
